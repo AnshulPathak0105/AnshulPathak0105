@@ -5,7 +5,7 @@
 <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-### My Tech Toolbox 🧰
+### My Tech Toolbox
 
 <p align="left">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="40" height="40"/>
