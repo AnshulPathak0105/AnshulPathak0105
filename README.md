@@ -35,4 +35,5 @@
 
 
 [gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/anshul-pathak-750364b9/
 
