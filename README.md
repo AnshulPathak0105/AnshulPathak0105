@@ -16,7 +16,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bamboo_Logo.png/800px-Bamboo_Logo.png" alt="Bamboo" width="50" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png" alt="Bitbucket" width="50" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYt8tXfhdf0s3fduwCj1hp9VxZyACcVFXpIpHxrzbYcjOElv0m5K7ZNyiPb_J18zK1dbM&usqp=CAU" alt="Jira" width="40" height="40"/>
-<img src="http://assets.stickpng.com/thumbs/584817d6cef1014c0b5e4999.png" alt="Oracle" width="60" height="40"/>
+<img src="https://purepng.com/public/uploads/large/purepng.com-oracle-logologobrand-logoiconslogos-251519939816xngul.png" alt="Oracle" width="60" height="40"/>
 </p>
 
 * My primary coding language: Java
